@@ -7,7 +7,7 @@ prints a hollow square.*/
 int main()
 { 
 	int rows, in_loop, out_loop, w_loop=1, s_loop, s_rows=0, se_loop, sl_loop=3;
-	printf("ok")
+	printf("okays")
 	printf("Enter No. of rows/cloumns for Square: ");
 	scanf_s("%d", &rows);
 	s_rows = rows - 2;
